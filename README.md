@@ -12,6 +12,7 @@
 - 📫 How to reach me **dammamonnankulama@gmail.com**
 
 - ⚡ Fun fact **Call me as Dharme**
+-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dammadeshan.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
