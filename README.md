@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Cosmetic store(MERN Stack)](https://github.com/dammamonnankulama/Sample-Backend)
+- 🔭 I’m currently working on [Spring Boot Application](https://github.com/dammamonnankulama/Spring-sample-project)
 
 - 🌱 I’m currently learning **MERN (MongoDB, Express, React, Node.js) & MEAN (MongoDB, Express, Angular, Node.js)**
 
